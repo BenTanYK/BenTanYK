@@ -1,7 +1,7 @@
 ## About
 
 I'm a PhD student in the Michel research group based in the Edinburgh University School of Chemistry. 
-I'm specialising in the development of physics-based methodologies (particularly free energy calculations and enhanced sampling) to aid the rational design of small-molecule therapeutics within the field of targeted protein degradation. My background is in Chemical Physics, and I am passionate about innovative simulation techniques in drug discovery.
+I'm specialising in the development of physics-based methodologies (particularly free energy calculations and enhanced sampling) to aid the rational design of small-molecule therapeutics within the field of targeted protein degradation.
 
 ## Projects
 
