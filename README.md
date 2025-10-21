@@ -15,7 +15,7 @@ I am currently developing a path-based free energy calculation protocol for vari
 Other work includes: 
 
 - Contribution to the [Sire](https://github.com/OpenBioSim/sire) open-source molecular modelling framework
-- [Automated processing of order forms](https://github.com/BenTanYK/playerlayer_kit_orders) for customised PlayerLayer kit (Edinburgh University Badminton Club)
+- [Automated processing of order forms](https://github.com/BenTanYK/plkit.git) for customised PlayerLayer kit (Edinburgh University Badminton Club)
 
 <div align="center">
 
